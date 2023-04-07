@@ -1,1 +1,1 @@
-# -Germination_finder-Machine_learning-.
+# Germination_finder-Machine_learning
